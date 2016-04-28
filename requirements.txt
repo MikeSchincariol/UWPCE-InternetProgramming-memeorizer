@@ -1,0 +1,8 @@
+beautifulsoup4==4.4.1
+click==6.6
+decorator==4.0.9
+geocoder==1.12.0
+html5lib==0.9999999
+ratelim==0.1.6
+requests==2.9.1
+six==1.10.0
