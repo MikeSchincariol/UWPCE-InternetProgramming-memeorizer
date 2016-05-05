@@ -1,1 +1,1 @@
-web: gunicorn memeorizer.py --log-gile -
+web: gunicorn memeorizer.py --log-file -
