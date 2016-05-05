@@ -2,6 +2,7 @@ beautifulsoup4==4.4.1
 click==6.6
 decorator==4.0.9
 geocoder==1.12.0
+gunicorn==19.4.5
 html5lib==0.9999999
 ratelim==0.1.6
 requests==2.9.1
