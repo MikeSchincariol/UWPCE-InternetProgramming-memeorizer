@@ -1,1 +1,1 @@
-web: gunicorn memeorizer.py --log-file -
+web: gunicorn memeorizer.wsgi --log-file -
