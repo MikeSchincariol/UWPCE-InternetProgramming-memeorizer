@@ -1,1 +1,1 @@
-web: gunicorn memeorizer.wsgi --log-file -
+web: gunicorn memeorizer.wsgi:application --preload --log-file -
